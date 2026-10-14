@@ -153,3 +153,16 @@ Processed files like `<directory>_res.csv` include:
    - Updates are saved in associated `.csv` or `.tsv` files for recordkeeping.
 
 ---
+
+# Acknowledgments
+
+<a href="https://tacr.gov.cz/en/">
+  <img src="https://tacr.gov.cz/wp-content/themes/iq-theme/dist/images/logo.svg" width="100" alt="TAČR logo" align="left">
+</a>
+
+This work was supported by the Technology Agency of the Czech Republic
+([TAČR](https://tacr.gov.cz/en/)) under project TN02000109/006-V01,
+*Personalised Medicine: From Translational Research into Biomedical Applications*
+(PERMED: T2BA).
+
+<br clear="left">
